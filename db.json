@@ -67,7 +67,7 @@
       },
 
       "Name": {
-        "photo": "images/pp3.jpg",
+        "photo": "images/pp5.jpg",
         "fullName": "Kierra Calzoni",
         "gender": "Female",
         "company": "",
@@ -130,7 +130,7 @@
       },
 
       "Name": {
-        "photo": "images/pp5.jpg",
+        "photo": "images/pp3.jpg",
         "fullName": "Kristianto",
         "gender": "Male",
         "company": "Toyota Tsusho",
@@ -214,7 +214,7 @@
       "Voucher": [
         {
           "id": null,
-          "title": "-",
+          "title": "",
           "detail": ""
         }
       ]
