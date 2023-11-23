@@ -1,31 +1,31 @@
 {
   "users": [
     {
-      "id": {
+      "ID": {
         "userID": 457,
         "employeeID": "BAS-51243",
         "device": "pc",
         "date": "9 Jun 2022",
         "firstLogin": "22 Nov 2022"
       },
-      "status": {
+      "Status": {
         "position": "Lead",
         "lastActive": "-",
         "lastBook": "-"
       },
 
-      "name": {
+      "Name": {
         "photo": "images/pp2.jpg",
         "fullName": "Ruber Tornado",
         "gender": "Male",
         "company": "SKTrans",
         "Department": "Processing"
       },
-      "contact": {
+      "Contact": {
         "phone": "+62 812 3546 7890",
         "email": "rubentornado@email.com"
       },
-      "address": [
+      "Address": [
         {
           "home": {
             "path": "Kecamatan Serpong, Kota Tangerang Selatan",
@@ -43,8 +43,8 @@
           }
         }
       ],
-      "trip": "32",
-      "voucher": [
+      "Trip": "32",
+      "Voucher": [
         {
           "id": null,
           "title": "-",
@@ -53,31 +53,31 @@
       ]
     },
     {
-      "id": {
+      "ID": {
         "userID": 457,
         "employeeID": "",
         "device": "phone",
         "date": "9 Jun 2022",
         "firstLogin": ""
       },
-      "status": {
+      "Status": {
         "position": "Active",
         "lastActive": "1 day ago",
         "lastBook": "2 May 2022"
       },
 
-      "name": {
+      "Name": {
         "photo": "images/pp3.jpg",
         "fullName": "Kierra Calzoni",
         "gender": "Female",
         "company": "",
         "Department": ""
       },
-      "contact": {
+      "Contact": {
         "phone": "+62 812 3546 7890",
         "email": "kierracalzoni@email.com"
       },
-      "address": [
+      "Address": [
         {
           "home": {
             "path": "Kecamatan Serpong, Kota Tangerang Selatan",
@@ -95,8 +95,8 @@
           }
         }
       ],
-      "trip": "32",
-      "voucher": [
+      "Trip": "32",
+      "Voucher": [
         {
           "id": 1,
           "title": "Flexi",
@@ -116,31 +116,31 @@
     },
 
     {
-      "id": {
+      "ID": {
         "userID": 457,
         "employeeID": "BAS-51243",
         "device": "phone",
         "date": "9 Jun 2022",
         "firstLogin": ""
       },
-      "status": {
+      "Status": {
         "position": "Recent",
         "lastActive": "56 days ago",
         "lastBook": "9 Jun 2022"
       },
 
-      "name": {
+      "Name": {
         "photo": "images/pp4.jpg",
         "fullName": "Kristianto",
         "gender": "Male",
         "company": "Toyota Tsusho",
         "Department": "Chemicals"
       },
-      "contact": {
+      "Contact": {
         "phone": "+62 812 3546 7890",
         "email": "kristianto@email.com"
       },
-      "address": [
+      "Address": [
         {
           "home": {
             "path": "Kecamatan Serpong, Kota Tangerang Selatan",
@@ -158,8 +158,8 @@
           }
         }
       ],
-      "trip": "32",
-      "voucher": [
+      "Trip": "32",
+      "Voucher": [
         {
           "id": null,
           "title": "-",
@@ -168,31 +168,31 @@
       ]
     },
     {
-      "id": {
+      "ID": {
         "userID": 457,
         "employeeID": "BAS-51243",
         "device": "pc",
         "date": "9 Jun 2022",
         "firstLogin": ""
       },
-      "status": {
+      "Status": {
         "position": "Inactive",
         "lastActive": "125 days ago",
         "lastBook": "2 May 2022"
       },
 
-      "name": {
+      "Name": {
         "photo": "images/pp5.jpg",
         "fullName": "Waluyo Brahmono Paulo Margono",
         "gender": "Male",
         "company": "Toyota Tsusho",
         "Department": "Processing"
       },
-      "contact": {
+      "Contact": {
         "phone": "+62 812 3546 7890",
         "email": "-"
       },
-      "address": [
+      "Address": [
         {
           "home": {
             "path": "Kecamatan Serpong, Kota Tangerang Selatan",
@@ -210,8 +210,8 @@
           }
         }
       ],
-      "trip": "1",
-      "voucher": [
+      "Trip": "1",
+      "Voucher": [
         {
           "id": null,
           "title": "-",
