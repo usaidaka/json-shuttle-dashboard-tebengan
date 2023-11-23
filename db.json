@@ -4,6 +4,7 @@
       "id": {
         "userID": 457,
         "employeeID": "BAS-51243",
+        "device": "pc",
         "date": "9 Jun 2022",
         "firstLogin": "22 Nov 2022"
       },
@@ -16,13 +17,61 @@
       "name": {
         "photo": "images/pp2.jpg",
         "fullName": "Ruber Tornado",
-        "gender": "male",
+        "gender": "Male",
         "company": "SKTrans",
         "Department": "Processing"
       },
       "contact": {
         "phone": "+62 812 3546 7890",
         "email": "rubentornado@email.com"
+      },
+      "address": [
+        {
+          "title": "Master Pro",
+          "home": "Kecamatan Serpong, Kota Tangerang Selatan",
+          "depart": "08:00",
+          "arrival": "19:00"
+        },
+        {
+          "title": "Grand Indonesia ",
+          "work": "Kecamatan  Menteng, Kota Jakarta Pusat",
+          "depart": "08:00",
+          "arrival": "19:00"
+        }
+      ],
+      "trip": "32",
+      "voucher": [
+        {
+          "id": null,
+          "title": "-",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "id": {
+        "userID": 457,
+        "employeeID": "",
+        "device": "phone",
+        "date": "9 Jun 2022",
+        "firstLogin": ""
+      },
+      "status": {
+        "position": "Active",
+        "lastActive": "",
+        "lastBook": "2 May 2022"
+      },
+
+      "name": {
+        "photo": "images/pp3.jpg",
+        "fullName": "Kierra Calzoni",
+        "gender": "Female",
+        "company": "",
+        "Department": ""
+      },
+      "contact": {
+        "phone": "+62 812 3546 7890",
+        "email": "kierracalzoni@email.com"
       },
       "address": [
         {
@@ -54,6 +103,103 @@
           "id": 3,
           "title": "Bundle",
           "detail": "Kemerdekaan BSD <-> SCBD"
+        }
+      ]
+    },
+
+    {
+      "id": {
+        "userID": 457,
+        "employeeID": "BAS-51243",
+        "device": "phone",
+        "date": "9 Jun 2022",
+        "firstLogin": ""
+      },
+      "status": {
+        "position": "Recent",
+        "lastActive": "",
+        "lastBook": "9 Jun 2022"
+      },
+
+      "name": {
+        "photo": "images/pp4.jpg",
+        "fullName": "Kristianto",
+        "gender": "Male",
+        "company": "Toyota Tsusho",
+        "Department": "Chemicals"
+      },
+      "contact": {
+        "phone": "+62 812 3546 7890",
+        "email": "kristianto@email.com"
+      },
+      "address": [
+        {
+          "title": "Master Pro",
+          "home": "Kecamatan Serpong, Kota Tangerang Selatan",
+          "depart": "08:00",
+          "arrival": "19:00"
+        },
+        {
+          "title": "Grand Indonesia ",
+          "work": "Kecamatan  Menteng, Kota Jakarta Pusat",
+          "depart": "08:00",
+          "arrival": "19:00"
+        }
+      ],
+      "trip": "32",
+      "voucher": [
+        {
+          "id": null,
+          "title": "-",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "id": {
+        "userID": 457,
+        "employeeID": "BAS-51243",
+        "device": "pc",
+        "date": "9 Jun 2022",
+        "firstLogin": ""
+      },
+      "status": {
+        "position": "Inactive",
+        "lastActive": "",
+        "lastBook": "2 May 2022"
+      },
+
+      "name": {
+        "photo": "images/pp5.jpg",
+        "fullName": "Waluyo Brahmono Paulo Margono",
+        "gender": "Male",
+        "company": "Toyota Tsusho",
+        "Department": "Processing"
+      },
+      "contact": {
+        "phone": "+62 812 3546 7890",
+        "email": "-"
+      },
+      "address": [
+        {
+          "title": "Master Pro",
+          "home": "Kecamatan Serpong, Kota Tangerang Selatan",
+          "depart": "08:00",
+          "arrival": "19:00"
+        },
+        {
+          "title": "Grand Indonesia ",
+          "work": "Kecamatan  Menteng, Kota Jakarta Pusat",
+          "depart": "08:00",
+          "arrival": "19:00"
+        }
+      ],
+      "trip": "1",
+      "voucher": [
+        {
+          "id": null,
+          "title": "-",
+          "detail": ""
         }
       ]
     }
