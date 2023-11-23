@@ -19,7 +19,7 @@
         "fullName": "Ruber Tornado",
         "gender": "Male",
         "company": "SKTrans",
-        "Department": "Processing"
+        "department": "Processing"
       },
       "Contact": {
         "phone": "+62 812 3546 7890",
@@ -71,7 +71,7 @@
         "fullName": "Kierra Calzoni",
         "gender": "Female",
         "company": "",
-        "Department": ""
+        "department": ""
       },
       "Contact": {
         "phone": "+62 812 3546 7890",
@@ -134,7 +134,7 @@
         "fullName": "Kristianto",
         "gender": "Male",
         "company": "Toyota Tsusho",
-        "Department": "Chemicals"
+        "department": "Chemicals"
       },
       "Contact": {
         "phone": "+62 812 3546 7890",
