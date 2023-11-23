@@ -14,7 +14,7 @@
       },
 
       "name": {
-        "photo": "./public/images/pp2.jpg",
+        "photo": "../../assets/pp2.jpg",
         "fullName": "Ruber Tornado",
         "gender": "male",
         "company": "SKTrans",
