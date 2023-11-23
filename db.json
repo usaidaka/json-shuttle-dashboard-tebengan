@@ -58,7 +58,7 @@
       },
       "status": {
         "position": "Active",
-        "lastActive": "",
+        "lastActive": "1 day ago",
         "lastBook": "2 May 2022"
       },
 
@@ -117,7 +117,7 @@
       },
       "status": {
         "position": "Recent",
-        "lastActive": "",
+        "lastActive": "56 days ago",
         "lastBook": "9 Jun 2022"
       },
 
@@ -165,7 +165,7 @@
       },
       "status": {
         "position": "Inactive",
-        "lastActive": "",
+        "lastActive": "125 days ago",
         "lastBook": "2 May 2022"
       },
 
