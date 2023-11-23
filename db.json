@@ -27,16 +27,20 @@
       },
       "address": [
         {
-          "title": "Master Pro",
-          "home": "Kecamatan Serpong, Kota Tangerang Selatan",
-          "depart": "08:00",
-          "arrival": "19:00"
+          "home": {
+            "path": "Kecamatan Serpong, Kota Tangerang Selatan",
+            "title": "Master Pro",
+            "depart": "08:00",
+            "arrival": "19:00"
+          }
         },
         {
-          "title": "Grand Indonesia ",
-          "work": "Kecamatan  Menteng, Kota Jakarta Pusat",
-          "depart": "08:00",
-          "arrival": "19:00"
+          "work": {
+            "path": "Kecamatan  Menteng, Kota Jakarta Pusat",
+            "title": "Grand Indonesia ",
+            "depart": "08:00",
+            "arrival": "19:00"
+          }
         }
       ],
       "trip": "32",
@@ -75,16 +79,20 @@
       },
       "address": [
         {
-          "title": "Master Pro",
-          "home": "Kecamatan Serpong, Kota Tangerang Selatan",
-          "depart": "08:00",
-          "arrival": "19:00"
+          "home": {
+            "path": "Kecamatan Serpong, Kota Tangerang Selatan",
+            "title": "Master Pro",
+            "depart": "08:00",
+            "arrival": "19:00"
+          }
         },
         {
-          "title": "Grand Indonesia ",
-          "work": "Kecamatan  Menteng, Kota Jakarta Pusat",
-          "depart": "08:00",
-          "arrival": "19:00"
+          "work": {
+            "path": "Kecamatan  Menteng, Kota Jakarta Pusat",
+            "title": "Grand Indonesia ",
+            "depart": "08:00",
+            "arrival": "19:00"
+          }
         }
       ],
       "trip": "32",
@@ -134,16 +142,20 @@
       },
       "address": [
         {
-          "title": "Master Pro",
-          "home": "Kecamatan Serpong, Kota Tangerang Selatan",
-          "depart": "08:00",
-          "arrival": "19:00"
+          "home": {
+            "path": "Kecamatan Serpong, Kota Tangerang Selatan",
+            "title": "Master Pro",
+            "depart": "08:00",
+            "arrival": "19:00"
+          }
         },
         {
-          "title": "Grand Indonesia ",
-          "work": "Kecamatan  Menteng, Kota Jakarta Pusat",
-          "depart": "08:00",
-          "arrival": "19:00"
+          "work": {
+            "path": "Kecamatan  Menteng, Kota Jakarta Pusat",
+            "title": "Grand Indonesia ",
+            "depart": "08:00",
+            "arrival": "19:00"
+          }
         }
       ],
       "trip": "32",
@@ -182,16 +194,20 @@
       },
       "address": [
         {
-          "title": "Master Pro",
-          "home": "Kecamatan Serpong, Kota Tangerang Selatan",
-          "depart": "08:00",
-          "arrival": "19:00"
+          "home": {
+            "path": "Kecamatan Serpong, Kota Tangerang Selatan",
+            "title": "Master Pro",
+            "depart": "08:00",
+            "arrival": "19:00"
+          }
         },
         {
-          "title": "Grand Indonesia ",
-          "work": "Kecamatan  Menteng, Kota Jakarta Pusat",
-          "depart": "08:00",
-          "arrival": "19:00"
+          "work": {
+            "path": "Kecamatan  Menteng, Kota Jakarta Pusat",
+            "title": "Grand Indonesia ",
+            "depart": "08:00",
+            "arrival": "19:00"
+          }
         }
       ],
       "trip": "1",
